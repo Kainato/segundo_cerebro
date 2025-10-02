@@ -103,14 +103,11 @@ http://localhost:3000
 
 ## 📦 Publicação
 
-### GitHub Pages
-Para publicar diretamente no **GitHub Pages**, basta ajustar o campo `url` e `baseUrl` no arquivo `docusaurus.config.js` e rodar:
+Este projeto utiliza a **[Vercel](https://vercel.com/)** para hospedagem.  
+A Vercel é uma plataforma gratuita e prática para publicar sites estáticos ou aplicações front-end, como este projeto em **Docusaurus**.  
 
-```bash
-npm run deploy
-```
-
-> ⚠️ Isso exige que você configure o repositório para permitir publicação no branch `gh-pages`.
+⚠️ **Importante:** O processo de deploy (publicação) é responsabilidade do administrador do repositório.  
+Caso seja necessário atualizar a versão publicada, **contate o administrador** para que ele realize o deploy na Vercel.
 
 ---
 
