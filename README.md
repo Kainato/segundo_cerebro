@@ -7,10 +7,12 @@ Este repositório contém um site de documentação criado com [Docusaurus 2](ht
 ## 🚀 Começando
 
 ### Pré-requisitos
+
 - [Node.js](https://nodejs.org/) **>= 16**
 - Gerenciador de pacotes **npm** ou **yarn**
 
 Verifique se já estão instalados:
+
 ```bash
 node -v
 npm -v
@@ -19,6 +21,7 @@ npm -v
 ---
 
 ### 📦 Instalação
+
 Clone este repositório e instale as dependências:
 
 ```bash
@@ -28,6 +31,7 @@ npm install
 ```
 
 ou com **yarn**:
+
 ```bash
 yarn
 ```
@@ -35,6 +39,7 @@ yarn
 ---
 
 ### ▶️ Ambiente de desenvolvimento
+
 Para iniciar o servidor local de desenvolvimento:
 
 ```bash
@@ -42,6 +47,7 @@ npm start
 ```
 
 O site ficará disponível em:
+
 ```
 http://localhost:3000
 ```
@@ -51,6 +57,7 @@ O servidor faz *hot reload*, ou seja, mudanças em arquivos são refletidas auto
 ---
 
 ### 📤 Build de Produção
+
 Para gerar os arquivos estáticos do site:
 
 ```bash
@@ -58,6 +65,7 @@ npm run build
 ```
 
 A saída será gerada na pasta:
+
 ```
 build/
 ```
@@ -65,10 +73,13 @@ build/
 Você pode publicar esse conteúdo em qualquer serviço de hospedagem de sites estáticos (Netlify, Vercel, GitHub Pages, etc).
 
 Para testar o build localmente:
+
 ```bash
 npm run serve
 ```
+
 E acesse:
+
 ```
 http://localhost:3000
 ```
@@ -121,6 +132,7 @@ Caso seja necessário atualizar a versão publicada, **contate o administrador**
 ---
 
 ## 📖 Documentação Oficial
+
 - [Guia Rápido](https://docusaurus.io/docs)
 - [Configurações](https://docusaurus.io/docs/configuration)
 - [Deployment](https://docusaurus.io/docs/deployment)
