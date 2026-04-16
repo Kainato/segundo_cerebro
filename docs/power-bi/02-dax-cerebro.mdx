@@ -1,0 +1,74 @@
+---
+sidebar_position: 2
+---
+
+import TabItem from '@theme/TabItem';
+import Tabs from '@theme/Tabs';
+
+# Aula 2 — DAX (Cérebro)
+
+## 💡 Ideia Central
+
+Quem importa dados é iniciante. Quem cria métricas úteis vira analista.
+
+## Antes de Calcular
+
+Entenda o dado primeiro:
+- Cada coluna significa o quê?
+- Cada linha representa o quê?
+- Qual contexto negócio?
+
+⚠️ Dado sem contexto = análise errada.
+
+## O que é DAX?
+
+**Data Analysis Expressions** — linguagem Power BI para cálculos.
+
+```
+Total Horas = SUM(Producao[Horas])
+Faturamento = SUMX(Vendas, Vendas[Preco] * Vendas[Qtd])
+Lucro = [Faturamento] - [Custo Total]
+Margem % = DIVIDE([Lucro], [Faturamento])
+```
+
+## Coluna Calculada vs Medida
+
+<Tabs>
+  <TabItem value="coluna" label="📋 Coluna Calculada">
+    Calculada linha a linha. Faz parte tabela. Estática e nível dado.
+    
+    Exemplo: Custo Total = Qtd × Preço
+  </TabItem>
+  <TabItem value="medida" label="🎯 Medida">
+    Calculada sob demanda. Depende contexto (filtros). Mais poderosa.
+    
+    Exemplo: Margem por Região (dinâmica)
+  </TabItem>
+</Tabs>
+
+## Funções DAX Fundamentais
+
+| Função | O que faz |
+|--------|-----------|
+| SUM | Soma valores |
+| AVERAGE | Calcula média |
+| MAX / MIN | Extremos |
+| COUNT | Contagem |
+| DISTINCTCOUNT | Contagem única |
+| SUMX | Soma iterativa |
+| DIVIDE | Divisão segura |
+| IF / SWITCH | Condicionais |
+
+## Métricas de Negócio
+
+**Financeiras:**
+- Faturamento = preço × qtd
+- Custo = custo unit × qtd
+- Lucro = faturamento – custo
+- Margem % = lucro / faturamento
+
+**Operacionais:**
+- Horas trabalhadas vs paradas
+- Produção aprovada vs rejeitada
+- Eficiência e produtividade
+- Indicadores qualidade
