@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
-# Trilha de Evolução
+# Aula 4 - Trilha de evolução
 
 ## 🌱 Iniciante
 
@@ -40,4 +40,4 @@ sidebar_position: 4
 
 **Aula 2 →** Quem importa dados é iniciante. Quem cria métricas úteis que explicam desempenho vira analista.
 
-**Aula 3 →** Ferramenta + cálculo não geram valor. **Problema + insight + comunicação** = valor real empresa.
+**Aula 3 →** Ferramenta + cálculo não geram valor. **Problema + insight + comunicação** = valor real empresa
