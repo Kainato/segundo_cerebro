@@ -2,100 +2,115 @@
 sidebar_position: 2
 ---
 
-🛠️ Aula 2 — Construção, Integração e Aplicação Real
-🔄 Evolução do Projeto
+# 🛠️ Aula 2 — Construção, Integração e Aplicação Real
 
-Na segunda aula, o foco muda de conceito para execução:
+## 🔄 Evolução do Projeto
 
-Refinamento da ferramenta criada
-Melhoria da lógica de funcionamento
-Ajuste de entradas e saídas da IA
+Na segunda aula, o foco muda de conceito para **execução**:
 
-Aqui acontece a transição de:
+- 🔧 Refinamento da ferramenta criada
+- 📈 Melhoria da lógica de funcionamento
+- 🎯 Ajuste de entradas e saídas da IA
 
-Protótipo → Ferramenta funcional
+### Transição Esperada
 
-🔗 Integração com o Mundo Real
+**Protótipo** → **Ferramenta funcional**
+
+---
+
+## 🔗 Integração com o Mundo Real
 
 Um dos pontos mais importantes:
 
-A ferramenta não deve ficar isolada — ela precisa se conectar com o seu fluxo de trabalho.
+> **A ferramenta não deve ficar isolada — ela precisa se conectar com o seu fluxo de trabalho.**
 
-Exemplos de integração:
+### Exemplos de Integração
 
-Documentos e bases de conhecimento
-Ferramentas do dia a dia
-Rotinas operacionais
+- 📚 Documentos e bases de conhecimento
+- 🛠️ Ferramentas do dia a dia
+- ⚙️ Rotinas operacionais
 
-Isso transforma a IA em algo útil no contexto real, não apenas experimental.
+Isso transforma a IA em algo **útil no contexto real**, não apenas experimental.
 
-🧠 Estrutura de Funcionamento de um Sistema com IA
+---
+
+## 🧠 Estrutura de Funcionamento de um Sistema com IA
 
 A aula reforça um modelo mental essencial:
 
-🔁 Loop de funcionamento de um agente de IA
-Entrada de dados (input)
-Processamento com IA
-Ação (gerar resposta, editar algo, sugerir decisões)
-Feedback / melhoria contínua
+### 🔁 Loop de Funcionamento de um Agente de IA
 
-Esse ciclo é o que transforma IA em automação inteligente, não apenas resposta textual.
+1. **Entrada de dados** (input)
+2. **Processamento com IA**
+3. **Ação** (gerar resposta, editar algo, sugerir decisões)
+4. **Feedback / melhoria contínua**
 
-🧪 Iteração e Refinamento
+Esse ciclo é o que transforma IA em **automação inteligente**, não apenas resposta textual.
+
+---
+
+## 🧪 Iteração e Refinamento
 
 Outro aprendizado chave:
 
-Ferramentas com IA não nascem prontas — elas evoluem.
+> **Ferramentas com IA não nascem prontas — elas evoluem.**
 
-Processo:
+### Processo de Melhoria Contínua
 
-Testar
-Ajustar
-Refinar prompts e estrutura
-Melhorar resultados
+1. Testar
+2. Ajustar
+3. Refinar prompts e estrutura
+4. Melhorar resultados
 
-Isso aproxima o uso de IA de um processo de desenvolvimento de produto, não de uso casual.
+Isso aproxima o uso de IA de um **processo de desenvolvimento de produto**, não de uso casual.
 
-📈 Aplicabilidade Profissional
+---
+
+## 📈 Aplicabilidade Profissional
 
 O workshop reforça que qualquer área pode se beneficiar:
 
-Desenvolvimento: automação de tarefas repetitivas
-Produto: análise de dados e decisões
-Design: recomendações baseadas em métricas
-Negócios: geração de insights estratégicos
+- **Desenvolvimento**: automação de tarefas repetitivas
+- **Produto**: análise de dados e decisões
+- **Design**: recomendações baseadas em métricas
+- **Negócios**: geração de insights estratégicos
 
-A IA se torna um multiplicador de produtividade.
+A IA se torna um **multiplicador de produtividade**.
 
-💡 Principais Aprendizados Consolidados
-1. IA não é ferramenta — é infraestrutura
+---
+
+## 💡 Principais Aprendizados Consolidados
+
+### 1️⃣ IA não é ferramenta — é infraestrutura
 
 Quando bem utilizada, ela se torna parte do seu processo de trabalho.
 
-2. O diferencial está no sistema, não no prompt
+### 2️⃣ O diferencial está no sistema, não no prompt
 
 Prompts são apenas uma parte — o valor está na arquitetura da solução.
 
-3. Pensar como “builder” é essencial
+### 3️⃣ Pensar como "builder" é essencial
 
 Quem constrói ferramentas com IA se destaca mais do que quem apenas utiliza.
 
-4. Iteração é obrigatória
+### 4️⃣ Iteração é obrigatória
 
 Soluções com IA exigem melhoria contínua para gerar valor real.
 
-5. Aplicação prática é o que gera impacto
+### 5️⃣ Aplicação prática é o que gera impacto
 
 O objetivo não é aprender IA — é resolver problemas reais com ela.
 
-🧭 Conclusão
+---
 
-O workshop demonstra que estamos entrando em uma nova fase da tecnologia:
+## 🧭 Conclusão
 
-Não basta saber usar IA — é preciso saber construir com IA.
+O workshop demonstra que estamos entrando em uma **nova fase da tecnologia**:
 
-Ao final das aulas, o aluno deixa de ser apenas consumidor e passa a atuar como um criador de soluções inteligentes, capaz de:
+> **Não basta saber usar IA — é preciso saber construir com IA.**
 
-Automatizar tarefas
-Criar sistemas personalizados
-Aumentar significativamente sua produtividade
+Ao final das aulas, o aluno deixa de ser apenas consumidor e passa a atuar como um **criador de soluções inteligentes**, capaz de:
+
+- 🤖 Automatizar tarefas
+- 🛠️ Criar sistemas personalizados
+- 📊 Aumentar significativamente sua produtividade

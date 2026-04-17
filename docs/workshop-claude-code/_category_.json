@@ -1,9 +1,10 @@
 {
   "label": "Workshop Claude Code",
   "position": 3,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "generated-index",
-    "description": "Transforme dados em decisões estratégicas com Power BI."
+    "title": "Transforme IA em ferramentas reais com Claude Code",
+    "description": "O workshop tem como objetivo ensinar, de forma prática, como sair do consumo passivo de IA (ex: chatbots) para a criação de ferramentas reais, utilizando o Claude Code como principal tecnologia. Com foco em desenvolver um \"segundo cérebro\": uma ferramenta capaz de aprender com dados, processos e histórico do usuário para gerar insights e automatizar tarefas do dia a dia."
   }
 }
