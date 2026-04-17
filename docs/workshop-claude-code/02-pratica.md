@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 🛠️ Aula 2 — Construção, Integração e Aplicação Real
+# Aula 2 — Construção, Integração e Aplicação Real
 
 ## 🔄 Evolução do Projeto
 

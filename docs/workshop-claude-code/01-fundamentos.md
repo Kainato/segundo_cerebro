@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🚀 Aula 1 — Fundamentos e Mentalidade de Builder com IA
+# Aula 1 — Fundamentos e Mentalidade de Builder com IA
 
 ## 🧩 Mudança de Paradigma: de Usuário para Criador
 
