@@ -1,6 +1,7 @@
 {
-  "label": "Imersão Power BI para Negócios",
-  "position": 2,
+  "label": "Workshop Claude Code",
+  "position": 3,
+  "collapsed": false,
   "link": {
     "type": "generated-index",
     "description": "Transforme dados em decisões estratégicas com Power BI."
