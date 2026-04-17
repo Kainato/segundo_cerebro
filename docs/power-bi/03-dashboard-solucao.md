@@ -11,6 +11,7 @@ Dashboard começa na pergunta certa — não no Power BI.
 ## Pensamento Orientado Problema
 
 Antes abrir Power BI:
+
 - Empresa quer saber o quê?
 - Qual decisão precisa tomar?
 - Qual problema precisa resolver?
