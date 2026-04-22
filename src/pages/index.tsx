@@ -124,27 +124,10 @@ function WhyThisMatters() {
           Mas e se transformássemos isso em <strong>documentação viva que conta a história do seu crescimento?</strong>
         </p>
       </div>
-
-      <div style={{ marginTop: '2rem' }}>
-        <h3>Para Seu "Eu do Futuro":</h3>
-        <p>
-          Quando precisar revisitar um conhecimento, em vez de reviver o trauma de entender
-          código antigo, você terá a narrativa: o desafio, como resolveu, e o que aprendeu.
-        </p>
-
-        <h3 style={{ marginTop: '1.5rem' }}>Para Recrutadores e Lideranças:</h3>
-        <p>
-          Um link de um "Segundo Cérebro" bem estruturado mostra que você não apenas copia tutoriais,
-          mas que <strong>entende arquitetura, documenta processos e reflete sobre aprendizados</strong>.
-        </p>
-
-        <h3 style={{ marginTop: '1.5rem' }}>Para Sua Promoção:</h3>
-        <p>
-          Dedique seus 30-60 minutos diários a resolver dores específicas do seu trabalho atual.
-          Documente aqui como você resolveu. Sua promoção deixará de ser desejo e virará uma
-          <strong> consequência óbvia</strong>.
-        </p>
-      </div>
+      <p style={{ fontSize: '1.1rem', lineHeight: '1.6' }}>
+        Este projeto é a resposta para o desafio de transformar aprendizado em legado. Ele não é apenas um portfólio, mas um
+        <strong> segundo cérebro</strong> que registra sua jornada técnica, consolidando conhecimento e mostrando evolução real.
+      </p>
     </section>
   );
 }
