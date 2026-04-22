@@ -47,7 +47,7 @@ function ContentSection() {
           gap: '2rem',
           marginTop: '2rem'
         }}>
-          <div style={{ padding: '1.5rem', backgroundColor: 'grey', borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>
+          <div style={{ padding: '1.5rem', backgroundColor: 'var(--md-sys-color-surface-container)', borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>
             <div style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>📚</div>
             <h3>Documentação de Projetos</h3>
             <p>
@@ -55,7 +55,7 @@ function ContentSection() {
             </p>
           </div>
 
-          <div style={{ padding: '1.5rem', backgroundColor: 'grey', borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>
+          <div style={{ padding: '1.5rem', backgroundColor: 'var(--md-sys-color-surface-container)', borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>
             <div style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>🎯</div>
             <h3>Organizado por Aprendizados</h3>
             <p>
@@ -63,7 +63,7 @@ function ContentSection() {
             </p>
           </div>
 
-          <div style={{ padding: '1.5rem', backgroundColor: 'grey', borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>
+          <div style={{ padding: '1.5rem', backgroundColor: 'var(--md-sys-color-surface-container)', borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>
             <div style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>🔄</div>
             <h3>Constante aprendizado</h3>
             <p>
@@ -71,7 +71,7 @@ function ContentSection() {
             </p>
           </div>
 
-          <div style={{ padding: '1.5rem', backgroundColor: 'grey', borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>
+          <div style={{ padding: '1.5rem', backgroundColor: 'var(--md-sys-color-surface-container)', borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>
             <div style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>💡</div>
             <h3>Consolidação de Conhecimento</h3>
             <p>
@@ -80,7 +80,7 @@ function ContentSection() {
             </p>
           </div>
 
-          <div style={{ padding: '1.5rem', backgroundColor: 'grey', borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>
+          <div style={{ padding: '1.5rem', backgroundColor: 'var(--md-sys-color-surface-container)', borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>
             <div style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>🎬</div>
             <h3>Referência Ética</h3>
             <p>
@@ -88,7 +88,7 @@ function ContentSection() {
             </p>
           </div>
 
-          <div style={{ padding: '1.5rem', backgroundColor: 'grey', borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>
+          <div style={{ padding: '1.5rem', backgroundColor: 'var(--md-sys-color-surface-container)', borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>
             <div style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>📈</div>
             <h3>Prova de Valor</h3>
             <p>
@@ -109,13 +109,13 @@ function WhyThisMatters() {
       </Heading>
 
       <div style={{
-        backgroundColor: '#ffc107',
-        border: '2px solid #fff3cd',
+        backgroundColor: 'var(--md-sys-color-primary-container)',
+        border: `2px solid var(--md-sys-color-primary)`,
         borderRadius: '8px',
         padding: '1.5rem',
         marginBottom: '2rem'
       }}>
-        <p style={{ fontSize: '1.1rem', margin: '0', color: '#1B1B1D' }}>
+        <p style={{ fontSize: '1.1rem', margin: '0', color: 'var(--md-sys-color-on-primary-container)' }}>
           <strong>O "Cemitério de Repositórios":</strong> Você faz cursos, sobe o código, e ele fica lá pegando poeira digital.
           Mas e se transformássemos isso em <strong>documentação viva que conta a história do seu crescimento?</strong>
         </p>
