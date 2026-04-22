@@ -7,7 +7,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config: Config = {
   title: 'Segundo Cérebro',
   tagline: 'Um repositório vivo de conhecimento, projetos e aprendizados',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/Kainato.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
