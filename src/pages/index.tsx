@@ -18,15 +18,15 @@ function HomepageHeader() {
           Um repositório vivo de conhecimento, projetos e aprendizados
         </p>
         <p style={{ fontSize: '1.1rem', marginTop: '1rem', lineHeight: '1.6' }}>
-          Este espaço documenta minha evolução técnica, detalha meus projetos com propósito 
-          e serve como guia estruturado para transformar "repositórios parados" em 
+          Este espaço documenta minha evolução técnica, detalha meus projetos com propósito
+          e serve como guia estruturado para transformar "repositórios parados" em
           <strong> conhecimento consolidado e portfólio vivo</strong>.
         </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Sobre Mim e Minha Trajetória 🚀
+            Saiba mais sobre mim ➡️
           </Link>
         </div>
       </div>
