@@ -51,27 +51,23 @@ function ContentSection() {
             <div style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>📚</div>
             <h3>Documentação de Projetos</h3>
             <p>
-              Cada projeto é documentado com <strong>desafio</strong>, <strong>aprendizado</strong>
-              e <strong>próximos passos</strong>. Não apenas código, mas narrativa.
+              Cada projeto é documentado com <strong>desafio</strong>, <strong>aprendizado</strong> e <strong>próximos passos</strong>. Não apenas código, mas narrativa.
             </p>
           </div>
 
           <div style={{ padding: '1.5rem', backgroundColor: 'grey', borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>
             <div style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>🎯</div>
-            <h3>Organizado por Status</h3>
+            <h3>Organizado por Aprendizados</h3>
             <p>
-              <strong>Laboratório:</strong> Cursos base<br/>
-              <strong>Evolução:</strong> Projetos expandidos<br/>
-              <strong>Autoral:</strong> Ideias próprias
+              Projetos agrupados por workshops ou temas, mostrando a evolução do conhecimento e a aplicação prática.
             </p>
           </div>
 
           <div style={{ padding: '1.5rem', backgroundColor: 'grey', borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>
             <div style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>🔄</div>
-            <h3>Micro-Consistência</h3>
+            <h3>Constante aprendizado</h3>
             <p>
-              30 min a 1h por dia = 1 commit diário. O gráfico verde do GitHub conta a história
-              da consistência, não do tempo.
+              Cada projeto é um passo na jornada de aprendizado, mostrando não apenas o que foi feito, mas o que foi aprendido e o que vem a seguir.
             </p>
           </div>
 
