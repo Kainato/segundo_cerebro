@@ -70,83 +70,84 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/Kainato_Banner.jpeg',
     colorMode: {
       respectPrefersColorScheme: true,
     },
     navbar: {
       title: 'Segundo Cérebro',
       logo: {
-        alt: 'SC Logo',
-        src: 'img/logo.svg',
+      alt: 'Kainato Logo',
+      src: 'img/Kainato.svg',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Meus Projetos',
-        },
+      {
+        to: '/',
+        position: 'left',
+        label: 'Página Inicial',
+      },
+      {
+        type: 'docSidebar',
+        sidebarId: 'tutorialSidebar',
+        position: 'left',
+        label: 'Meus Projetos',
+      },
         // {
         //   to: '/docs/intro',
         //   label: 'Sobre mim',
         //   position: 'left',
         // },
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/Kainato',
-          label: 'GitHub',
-          position: 'right',
-        },
-        {
-          href: 'https://www.linkedin.com/in/kainato/',
-          label: 'LinkedIn',
-          position: 'right',
-        },
+        // {to: '/blog', label: 'Blog', position: 'left'},
+        // {
+        //   href: 'https://github.com/Kainato',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
+        // {
+        //   href: 'https://www.linkedin.com/in/kainato/',
+        //   label: 'LinkedIn',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
       style: 'dark',
       links: [
+        // {
+        //   title: 'Docs',
+        //   items: [
+        //     {
+        //       label: 'Tutorial',
+        //       to: '/docs/intro',
+        //     },
+        //   ],
+        // },
         {
-          title: 'Docs',
+          title: 'Conecte-se Comigo!',
           items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/Kainato',
+            },
+            {
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/in/kainato/',
             },
           ],
         },
+        // {
+        //   title: 'More',
+        //   items: [
+        //     {
+        //       label: 'Blog',
+        //       to: '/blog',
+        //     },
+        //     {
+        //       label: 'GitHub',
+        //       href: 'https://github.com/facebook/docusaurus',
+        //     },
+        //   ],
+        // },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
