@@ -10,7 +10,7 @@ Eu me chamo Caio Araújo, sou desenvolvedor com **sólida experiência** na cons
 
 ### 5+ Anos em Startups
 
-Ao longo de **5 anos em ambiente de startup**, lideei o desenvolvimento de soluções utilizando **Flutter**, com:
+Ao longo de **5 anos em ambiente de startup**, liderei o desenvolvimento de soluções utilizando **Flutter**, com:
 
 - ✨ Integração a APIs robustas
 - 🎨 Construção de interfaces modernas e intuitivas
