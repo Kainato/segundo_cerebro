@@ -65,7 +65,7 @@ function ContentSection() {
 
           <div style={{ padding: '1.5rem', backgroundColor: 'var(--md-sys-color-surface-container)', borderRadius: '8px', boxShadow: '0 2px 8px rgba(0,0,0,0.1)' }}>
             <div style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>🔄</div>
-            <h3>Constante aprendizado</h3>
+            <h3>Aprendizado constante</h3>
             <p>
               Cada projeto é um passo na jornada de aprendizado, mostrando não apenas o que foi feito, mas o que foi aprendido e o que vem a seguir.
             </p>
