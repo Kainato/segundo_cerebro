@@ -2,46 +2,40 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Sobre Mim
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Eu me chamo Caio Araújo, sou desenvolvedor com **sólida experiência** na construção de aplicações mobile e web, com forte atuação em **Flutter** e foco em **performance**, **escalabilidade** e **experiência do usuário**.
 
-## Getting Started
+## 🚀 Minha Trajetória
 
-Get started by **creating a new site**.
+### 5+ Anos em Startups
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Ao longo de **5 anos em ambiente de startup**, liderei o desenvolvimento de soluções utilizando **Flutter**, com:
 
-### What you'll need
+- ✨ Integração a APIs robustas
+- 🎨 Construção de interfaces modernas e intuitivas
+- 📱 Foco em usabilidade e consistência visual
+- 🔄 Visão completa do ciclo de produto
+- ⚖️ Equilíbrio entre qualidade técnica e entrega de valor
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Expandindo para Web
 
-## Generate a new site
+Atualmente, amplio minha atuação no desenvolvimento web com **Laravel** e **Filament**, trabalhando na:
 
-Generate a new Docusaurus site using the **classic template**.
+- 🏗️ Construção de sistemas bem estruturados
+- 🛠️ Atenção à arquitetura e organização de código
+- 📈 Escalabilidade de projetos
+- 🌐 Desenvolvimento abrangente de software
 
-The classic template will automatically be added to your project after you run the command:
+## 🎯 Meu Foco
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Criação de **soluções robustas** caracterizadas por:
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- **Código limpo** e bem estruturado
+- **Excelente experiência de uso**
+- **Alinhamento com as necessidades do negócio**
+- **Performance e escalabilidade**
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+---
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Explore meus projetos, artigos e estudos navegando pelo menu lateral. Fico à disposição para conversar sobre desafios técnicos e oportunidades de colaboração! 🤝
