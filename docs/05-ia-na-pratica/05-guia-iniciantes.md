@@ -123,7 +123,7 @@ Crie automações que trabalham enquanto você dorme:
 
 #### Como N8N Funciona
 
-```**text**
+```text
 Trigger (O que dispara)
     ↓
 [Nó 1] Entrada de dados
