@@ -242,7 +242,7 @@ Comece pequeno. Pense grande. Execute consistentemente.
 
 ## 🔗 Recursos Úteis
 
-- 📖 **Documentação N8N**: <https://docs.n8n.io>
+- 📖 **Documentação N8N**: [https://docs.n8n.io](https://docs.n8n.io)
 - 🎓 **Comunidade N8N**: Fóruns e exemplos de workflows
 - 📚 **Seu Método IDEAL**: Consulte a aula 02 sempre que necessário
 - 🤝 **Suporte**: Conecte-se com a comunidade de aprendizado
