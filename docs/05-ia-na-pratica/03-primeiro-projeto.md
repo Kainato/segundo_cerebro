@@ -79,7 +79,7 @@ Isso permite que a IA trabalhe com seus próprios dados e contexto, gerando resu
 
 ### Como Usar Gamma no Seu Projeto
 
-```
+```txt
 1. Estruture seu conteúdo com IA (ChatGPT/Claude)
 2. Exporte ou copie o resultado
 3. Cole em Gamma
@@ -98,9 +98,8 @@ Isso permite que a IA trabalhe com seus próprios dados e contexto, gerando resu
 
 **Prompt para ChatGPT:**
 
-```
-Preciso estruturar um plano de onboarding para novos funcionários 
-na área de atendimento ao cliente. 
+```txt
+Preciso estruturar um plano de onboarding para novos funcionários na área de atendimento ao cliente.
 
 Crie um cronograma com:
 - Principais treinamentos dos primeiros 30 dias

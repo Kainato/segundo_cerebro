@@ -104,15 +104,15 @@ Redação de e-mails formais e profissionais para fornecedores com tom adequado 
 
 ### ❌ Exemplo Fraco
 
-```
+```txt
 Organize uma viagem para o Rio de Janeiro.
 ```
 
 ### ✅ Exemplo Excelente
 
-```
-Organize uma viagem para 4 pessoas (2 adultos, 2 crianças de 8 e 12 anos) 
-de São Paulo para o Rio de Janeiro com:
+```txt
+Organize uma viagem para 4 pessoas (2 adultos, 2 crianças de 8 e 12 anos) de São Paulo para o Rio de Janeiro com:
+
 - Orçamento máximo: R$ 8.000
 - Duração: 5 dias
 - Foco em passeios em família com atividades para crianças
