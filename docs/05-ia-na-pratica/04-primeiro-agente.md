@@ -173,43 +173,6 @@ Curiosidade sobre IA → Domínio de 8 ferramentas
            Agente de IA funcionando sozinho
 ```
 
-### O Futuro é Agora
-
-:::success
-🚀 **O futuro pertence a quem sabe aproveitar a IA para liderar a transformação digital**
-
-Mas como começa?
-
-- ✅ Pequeno (um processo simples)
-- ✅ Testando (ferramentas reais)
-- ✅ Constantemente atualizado (o mercado não para)
-
-:::
-
----
-
-## 💡 Os Próximos Passos São Seus
-
-### Semana 1: Consolidação
-
-- 📚 Revise as 4 aulas
-- ✏️ Documente o Método IDEAL
-- 🔍 Identifique 3 processos para automatizar
-
-### Semana 2: Primeiro Agent
-
-- 🛠️ Monte conta em N8N
-- ⚙️ Crie seu primeiro fluxo simples
-- 🧪 Teste e ajuste
-
-### Semana 3+: Escala
-
-- 📈 Expanda para mais automações
-- 👥 Compartilhe com equipe
-- 🎯 Meça o impacto (tempo economizado, qualidade)
-
----
-
 ## 📖 Resumo das 4 Aulas
 
 | Aula | Foco | Ferramenta-chave |
@@ -221,22 +184,14 @@ Mas como começa?
 
 ---
 
-## 🎓 Mentalidade Final
+## 📌 Resumo das Competências
 
-:::info
-💎 **Você não precisa ser programador para automatizar**
+O domínio de agentes de IA com N8N permite:
 
-A IA democratizou a automação. Hoje, qualquer pessoa pode:
-
-- Criar fluxos de trabalho complexos
-- Integrar ferramentas diferentes
-- Escalar processos exponencialmente
-- Multiplicar sua produtividade
-
-Sua vantagem? **Você estudou o método, entendeu a estratégia e agora tem ferramentas reais.**
-
-Comece pequeno. Pense grande. Execute consistentemente.
-:::
+- **Automação de processos repetitivos** sem necessidade de programação tradicional
+- **Redução de tempo** em tarefas operacionais (60-70% de otimização)
+- **Escalabilidade** de negócios através de workflows inteligentes
+- **Integração** entre múltiplas ferramentas e plataformas
 
 ---
 

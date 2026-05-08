@@ -71,6 +71,4 @@ O primeiro passo para aplicar a IA estrategicamente é:
 4. **Iterar e otimizar**
    - Ajustar prompts e processos conforme necessário
 
-:::tip
-💡 **Dica importante**: O sucesso na aplicação de IA começa com **clareza de objetivos** e **experimentação contínua**. Não tenha medo de testar e ajustar suas estratégias!
-:::
+O sucesso na aplicação de IA começa com **clareza de objetivos** e **experimentação contínua**. O profissional moderno deve estar preparado para testar, ajustar e refinar suas estratégias de forma sistemática.

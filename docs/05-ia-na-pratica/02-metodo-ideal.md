@@ -4,7 +4,11 @@ sidebar_position: 2
 
 # Aula 02 - O Método IDEAL
 
-> **5 passos simples para você dominar qualquer ferramenta de IA e se tornar um especialista**
+> **5 passos simples para você dominar qualquer ferramenta de IA e## 💡 Princípios Fundamentais
+
+**Contextualização Eficaz**: Quanto mais contexto for fornecido — objetivo, público, limitações orçamentárias, tempo e preferências específicas — melhor será a precisão dos resultados da IA.
+
+**Impacto Mensurável**: Com o Método IDEAL bem aplicado, é possível reduzir em até **70% o tempo** dedicado a tarefas repetitivas, liberando recursos cognitivos para trabalho criativo e estratégico.um especialista**
 
 ## 📚 Sobre esta aula
 
