@@ -5,6 +5,7 @@ sidebar_position: 1
 # Aula 01 - Explosão das IAs
 
 > **Descubra as 8 ferramentas que vão revolucionar seu dia a dia de trabalho**
+> 💡 **Lembre-se:** "Serei um profissional diferenciado com IA em 2026" — porque agora é a sua hora de se reinventar!
 
 ## 📚 Sobre esta aula
 

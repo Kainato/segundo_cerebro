@@ -5,6 +5,7 @@ sidebar_position: 3
 # Aula 03 - Seu 1º Projeto Completo
 
 > **Combine o poder das IAs para construir projetos incríveis que transformam seu negócio**
+> 💡 **Lembre-se:** "Eu quero ser expert em inteligência artificial" — porque agora você vai colocar a mão na massa de verdade!
 
 ## 📚 Sobre esta aula
 

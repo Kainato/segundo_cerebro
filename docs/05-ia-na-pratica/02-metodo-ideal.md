@@ -4,7 +4,10 @@ sidebar_position: 2
 
 # Aula 02 - O Método IDEAL
 
-> **5 passos simples para você dominar qualquer ferramenta de IA e## 💡 Princípios Fundamentais
+> **5 passos simples para você dominar qualquer ferramenta de IA e se tornar um especialista**
+> 💡 **Lembre-se:** "Tudo é fácil com um bom direcionamento" — e o IDEAL é seu direcionamento perfeito!
+
+## 💡 Princípios Fundamentais
 
 **Contextualização Eficaz**: Quanto mais contexto for fornecido — objetivo, público, limitações orçamentárias, tempo e preferências específicas — melhor será a precisão dos resultados da IA.
 
