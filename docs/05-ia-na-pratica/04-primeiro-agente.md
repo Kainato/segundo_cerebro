@@ -60,7 +60,7 @@ Antes de criar qualquer agent, você **precisa escrever e mapear** exatamente:
 
 ### Passo 2: Identifique Oportunidades
 
-```txt
+```text
 Processo Manual
 ↓
 Quebrar em etapas
@@ -89,7 +89,7 @@ Pronto para automatizar!
 
 N8N usa o conceito de **"nós"** (nodes):
 
-```txt
+```text
 Trigger (E-mail chega)
          ↓
     [Nó 1] Recebe e-mail do Gmail
@@ -163,7 +163,7 @@ A imersão utiliza um ecossistema completo de ferramentas modernas:
 
 Você saiu de:
 
-```txt
+```text
 Curiosidade sobre IA → Domínio de 8 ferramentas
                     ↓
            Método estruturado (IDEAL)
