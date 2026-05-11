@@ -31,8 +31,16 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt-BR',
+    locales: ['pt-BR', 'en'],
+    localeConfigs: {
+      'pt-BR': {
+        htmlLang: 'pt-BR',
+      },
+      'en': {
+        htmlLang: 'en-US',
+      },
+    },
   },
 
   presets: [
@@ -43,8 +51,8 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -54,8 +62,8 @@ const config: Config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -77,18 +85,35 @@ const config: Config = {
     navbar: {
       title: 'Segundo Cérebro',
       logo: {
-      alt: 'Kainato Logo',
-      src: 'img/Kainato.svg',
+        alt: 'Kainato Logo',
+        src: 'img/Kainato.svg',
       },
       items: [
       {
         to: '/',
         position: 'left',
         label: 'Página Inicial',
+        // Com i18n habilitado (pt-BR como default e en como secundário),
+        // o home do locale secundário normalmente fica em /en/.
+        // O activeBaseRegex: '^/$' faz com que o item "Página Inicial"
+        // nunca fique ativo quando o usuário estiver em /en/ (ou em outros locales)
+        activeBaseRegex: '^/$',
+      },
+      {
+        type: 'docSidebar',
+        sidebarId: 'aboutSidebar',
+        position: 'left',
+        label: 'Sobre Mim',
       },
       {
         type: 'docSidebar',
         sidebarId: 'tutorialSidebar',
+        position: 'left',
+        label: 'Mini-Cursos',
+      },
+      {
+        type: 'docSidebar',
+        sidebarId: 'projetosSidebar',
         position: 'left',
         label: 'Meus Projetos',
       },
@@ -108,10 +133,21 @@ const config: Config = {
         //   label: 'LinkedIn',
         //   position: 'right',
         // },
+        // {
+        //   type: 'localeDropdown',
+        //   position: 'left',
+        // },
       ],
     },
     footer: {
       style: 'dark',
+      // logo: {
+      //   alt: 'Kainato Logo',
+      //   src: 'img/Kainato.svg',
+      //   href: '/',
+      //   width: 50,
+      //   height: 50,
+      // },
       links: [
         // {
         //   title: 'Docs',
