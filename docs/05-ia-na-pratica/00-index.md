@@ -8,7 +8,7 @@ Bem-vindo a esta jornada fascinante no mundo da Inteligência Artificial! Nesta 
 
 ## 🎓 Certificado de Conclusão
 
-[📜 Baixar Certificado de Conclusão](./certificado_imersao_ia_pratica_caio_calado_de_araujo.pdf)
+[📜 Baixar Certificado de Conclusão](/docs/05-ia-na-pratica/guias/certificado_imersao_ia_pratica_caio_calado_de_araujo.pdf)
 
 ## O que eu aprendi
 
