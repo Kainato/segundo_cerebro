@@ -170,7 +170,7 @@ Trigger (O que dispara)
 
 #### Fase 3: Automação
 
-- Criação de agents com N8N
+- Criação de agentes com N8N
 - Escalabilidade de processos
 - Documentação e monitoramento
 
