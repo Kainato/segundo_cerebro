@@ -44,7 +44,7 @@ Imagine que você recebe **100 e-mails por dia** e precisa:
 - 📋 Arquivar os processados
 
 **Sem automação**: Você gasta 2 horas por dia
-**Com IA Agent**: Sistema funciona 24/7 sem você!
+**Com IA Agente**: Sistema funciona 24/7 sem você!
 
 ---
 
@@ -52,7 +52,7 @@ Imagine que você recebe **100 e-mails por dia** e precisa:
 
 ### Passo 1: Mapeie a Rotina Atual
 
-Antes de criar qualquer agent, você **precisa escrever e mapear** exatamente:
+Antes de criar qualquer agente, você **precisa escrever e mapear** exatamente:
 
 - ✅ O que acontece no processo atual?
 - ✅ Quais são os passos repetitivos?
@@ -110,9 +110,9 @@ Você **não precisa programar**! Apenas conecta blocos visuais e define as regr
 
 ---
 
-## 🎯 Seu Primeiro Agent: Passo a Passo
+## 🎯 Seu Primeiro Agente: Passo a Passo
 
-1. **Defina o Trigger** (o que dispara o agent)
+1. **Defina o Trigger** (o que dispara o agente)
    - Exemplo: "Novo e-mail chega no Gmail"
 
 2. **Adicione Inteligência** (use IA para pensar)

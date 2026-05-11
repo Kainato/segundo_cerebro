@@ -140,7 +140,7 @@ Trigger (O que dispara)
 #### Exemplo: Classificação Automática de E-mails
 
 - Sem automação: 2 horas/dia
-- Com Agent: 24/7 automático ✅
+- Com Agente: 24/7 automático ✅
 
 **Ferramentas Complementares:**
 
