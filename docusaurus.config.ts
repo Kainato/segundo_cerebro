@@ -85,6 +85,7 @@ const config: Config = {
         to: '/',
         position: 'left',
         label: 'Página Inicial',
+        activeBaseRegex: '^/$',
       },
       {
         type: 'docSidebar',
