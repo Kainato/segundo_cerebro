@@ -35,7 +35,7 @@ Descubra as 8 ferramentas que vão mudar seu dia a dia:
 **Aplicações práticas:**
 
 | Profissão | Aplicação |
-| --------- | --------- |
+| --- | --- |
 | **Analistas** | Relatórios em segundos |
 | **RH** | Descrições de vagas otimizadas |
 | **Vendedores** | Campanhas persuasivas |
@@ -90,7 +90,7 @@ Combine ferramentas de IA para criar projetos reais:
 #### Exemplo Prático: Onboarding de RH
 
 | Fase | Ferramenta | Resultado |
-| ---- | ---------- | --------- |
+| ---- | --- | --- |
 | Conteúdo | ChatGPT + Claude | Estrutura de treinamento |
 | Design | Gamma | Apresentação profissional |
 | Suporte | IA + FAQ | Base de conhecimento |
@@ -116,7 +116,7 @@ Crie automações que trabalham enquanto você dorme:
 #### Evolução: De Consulta para Execução
 
 | Nível | Você Faz | IA Faz | Resultado |
-| ----- | -------- | ------ | --------- |
+| --- | --- | --- | --- |
 | Consulta | Pergunta | Responde | Informação |
 | Assistência | Estrutura | Executa | Resultado ajudado |
 | **Agente** | Define | Trabalha sozinha | Automação completa |
