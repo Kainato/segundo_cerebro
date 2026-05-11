@@ -40,7 +40,7 @@ Imagine que você recebe **100 e-mails por dia** e precisa:
 
 - 📧 Separar e-mails internos do spam
 - 📂 Categorizar por tipo (vendas, suporte, RH)
-- ⚠️ Alertar sobre emails urgentes
+- ⚠️ Alertar sobre e-mails urgentes
 - 📋 Arquivar os processados
 
 **Sem automação**: Você gasta 2 horas por dia
