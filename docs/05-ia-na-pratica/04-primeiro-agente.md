@@ -5,7 +5,7 @@ sidebar_position: 4
 # Aula 04 - Seu Primeiro Agente de IA com N8N
 
 > **Crie seu primeiro Agente de Inteligência Artificial com N8N em apenas uma aula e comece a trabalhar enquanto dorme**
-> 💡 **Lembre-se:** "Sou time Daxos até o fim" — você faz parte de uma comunidade que transforma o mercado com IA!
+> 💡 **Lembre-se:** "Sou time DAXUS até o fim" — você faz parte de uma comunidade que transforma o mercado com IA!
 
 ## 📚 Sobre esta aula
 
