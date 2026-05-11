@@ -162,13 +162,13 @@ Trigger (O que dispara)
 - Aplicação do Método IDEAL
 - Testes e avaliação
 
-#### Fase 2: Integração**
+#### Fase 2: Integração
 
 - Combinação de múltiplas ferramentas
 - Desenvolvimento de primeiro projeto
 - Validação de resultados
 
-#### Fase 3: Automação**
+#### Fase 3: Automação
 
 - Criação de agents com N8N
 - Escalabilidade de processos
