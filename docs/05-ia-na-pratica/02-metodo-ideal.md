@@ -11,7 +11,7 @@ sidebar_position: 2
 
 **Contextualização Eficaz**: Quanto mais contexto for fornecido — objetivo, público, limitações orçamentárias, tempo e preferências específicas — melhor será a precisão dos resultados da IA.
 
-**Impacto Mensurável**: Com o Método IDEAL bem aplicado, é possível reduzir em até **70% o tempo** dedicado a tarefas repetitivas, liberando recursos cognitivos para trabalho criativo e estratégico.um especialista**
+**Impacto Mensurável**: Com o Método IDEAL bem aplicado, é possível reduzir em até **70% o tempo** dedicado a tarefas repetitivas, liberando recursos cognitivos para trabalho criativo e estratégico.
 
 ## 📚 Sobre esta aula
 
