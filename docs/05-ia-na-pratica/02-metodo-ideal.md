@@ -123,7 +123,7 @@ Organize uma viagem para 4 pessoas (2 adultos, 2 crianças de 8 e 12 anos) de S�
 - Orçamento máximo: R$ 8.000
 - Duração: 5 dias
 - Foco em passeios em família com atividades para crianças
-- Hospedagem em local seguro e com estrutura para familias
+- Hospedagem em local seguro e com estrutura para famílias
 ```
 
 ---
