@@ -6,6 +6,10 @@ sidebar_position: 0
 
 Bem-vindo a esta jornada fascinante no mundo da Inteligência Artificial! Nesta seção, exploraremos a aplicação prática da IA em diversos setores, desde a automação de processos até a análise de dados avançada.
 
+## 🎓 Certificado de Conclusão
+
+[📜 Baixar Certificado de Conclusão](./certificado_imersao_ia_pratica_caio_calado_de_araujo.pdf)
+
 ## O que eu aprendi
 
 - Fundamentos práticos de inteligência artificial
@@ -21,7 +25,3 @@ Este conteúdo foi desenvolvido com base na **Imersão Inteligência Artificial 
 ### Referência Bibliográfica
 
 DAXUS. Imersão Inteligência Artificial na Prática. Ministrado por Lorenzo. Jaboatão dos Guararapes (ou ambiente virtual), 2026. Disponível em: [youtube.com/@daxusbrasil](https://www.youtube.com/@daxusbrasil).
-
----
-
-Explore os tópicos abaixo para aprofundar seus conhecimentos em IA na prática!
