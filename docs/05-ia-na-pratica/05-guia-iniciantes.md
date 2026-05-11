@@ -264,7 +264,7 @@ Para aplicar os conhecimentos adquiridos nesta imersão:
 Baseado na Imersão Inteligência Artificial na Prática - 2026
 
 :::info
-📄 **[📥 Baixar: Guia Iniciantes Imersão IA - PDF](./guias/Guia_Iniciantes_Imersao_IA.pdf)**
+📄 **[📥 Baixar: Guia Iniciantes Imersão IA - PDF](/docs/05-ia-na-pratica/guias/Guia_Iniciantes_Imersao_IA.pdf)**
 
 Este PDF contém:
 
