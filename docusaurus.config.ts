@@ -93,6 +93,10 @@ const config: Config = {
         to: '/',
         position: 'left',
         label: 'Página Inicial',
+        // Com i18n habilitado (pt-BR como default e en como secundário),
+        // o home do locale secundário normalmente fica em /en/.
+        // O activeBaseRegex: '^/$' faz com que o item "Página Inicial"
+        // nunca fique ativo quando o usuário estiver em /en/ (ou em outros locales)
         activeBaseRegex: '^/$',
       },
       {
