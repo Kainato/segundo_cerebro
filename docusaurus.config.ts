@@ -77,8 +77,8 @@ const config: Config = {
     navbar: {
       title: 'Segundo Cérebro',
       logo: {
-      alt: 'Kainato Logo',
-      src: 'img/Kainato.svg',
+        alt: 'Kainato Logo',
+        src: 'img/Kainato.svg',
       },
       items: [
       {
@@ -88,7 +88,19 @@ const config: Config = {
       },
       {
         type: 'docSidebar',
+        sidebarId: 'aboutSidebar',
+        position: 'left',
+        label: 'Sobre Mim',
+      },
+      {
+        type: 'docSidebar',
         sidebarId: 'tutorialSidebar',
+        position: 'left',
+        label: 'Mini-Cursos',
+      },
+      {
+        type: 'docSidebar',
+        sidebarId: 'projetosSidebar',
         position: 'left',
         label: 'Meus Projetos',
       },
