@@ -31,8 +31,16 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt-BR',
+    locales: ['pt-BR', 'en'],
+    localeConfigs: {
+      'pt-BR': {
+        htmlLang: 'pt-BR',
+      },
+      'en': {
+        htmlLang: 'en-US',
+      },
+    },
   },
 
   presets: [
@@ -121,10 +129,21 @@ const config: Config = {
         //   label: 'LinkedIn',
         //   position: 'right',
         // },
+        // {
+        //   type: 'localeDropdown',
+        //   position: 'left',
+        // },
       ],
     },
     footer: {
       style: 'dark',
+      // logo: {
+      //   alt: 'Kainato Logo',
+      //   src: 'img/Kainato.svg',
+      //   href: '/',
+      //   width: 50,
+      //   height: 50,
+      // },
       links: [
         // {
         //   title: 'Docs',
