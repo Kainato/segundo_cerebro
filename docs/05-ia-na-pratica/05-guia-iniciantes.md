@@ -188,7 +188,7 @@ Orçamento, Público, Localização, Objetivo
 
 ### 🔗 Multimodalidade
 
-Uma ferramenta é bom. Múltiplas ferramentas = exponencial
+Uma ferramenta é boa. Múltiplas ferramentas = exponencial
 
 ### 🤖 Agentes de IA
 
