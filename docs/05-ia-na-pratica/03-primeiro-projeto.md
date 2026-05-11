@@ -47,7 +47,7 @@ A técnica consiste em **quebrar grandes desafios em etapas menores e simples**:
 ### 📋 Etapas do Projeto
 
 | Etapa | Descrição | Ferramentas |
-| ----- | --------- | ----------- |
+| --- | --- | --- |
 | **1. Conteúdo** | Criação do treinamento inicial estruturado | ChatGPT, Claude |
 | **2. Suporte** | Mecanismo para sanar dúvidas dos integrantes | FAQ gerado por IA |
 | **3. Design** | Transformação em apresentação visual profissional | Gamma, Canva |
