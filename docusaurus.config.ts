@@ -109,13 +109,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Mini-Cursos",
-        },
-        {
-          type: "docSidebar",
-          sidebarId: "projetosSidebar",
-          position: "left",
-          label: "Meus Projetos",
+          label: "Biblioteca de Conteúdos",
         },
         // {
         //   to: '/docs/intro',
