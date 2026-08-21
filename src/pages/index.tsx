@@ -165,8 +165,8 @@ export default function Home(): ReactNode {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title="Bibliotech - Conhecimento, Projetos e Aprendizados"
-      description="Um projeto e repositório vivo que documenta meus outros projetos, aprendizados e evolução técnica com foco em crescimento profissional"
+      title="Bibliotech"
+      description="Um projeto e repositório vivo que documenta meus aprendizados e evolução técnica com foco em crescimento profissional"
     >
       <HomepageHeader />
       <main>
