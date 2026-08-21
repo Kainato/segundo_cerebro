@@ -7,7 +7,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config: Config = {
   title: "Bibliotech",
   tagline: "Um repositório vivo de conhecimento, projetos e aprendizados",
-  favicon: "img/Kainato.svg",
+  favicon: "img/BT.svg",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -85,8 +85,8 @@ const config: Config = {
     navbar: {
       title: "Bibliotech",
       logo: {
-        alt: "Kainato Logo",
-        src: "img/Kainato.svg",
+        alt: "BT Logo",
+        src: "img/BT.svg",
       },
       items: [
         {
@@ -136,8 +136,8 @@ const config: Config = {
     footer: {
       style: "dark",
       // logo: {
-      //   alt: 'Kainato Logo',
-      //   src: 'img/Kainato.svg',
+      //   alt: 'BT Logo',
+      //   src: 'img/BT.svg',
       //   href: '/',
       //   width: 50,
       //   height: 50,
