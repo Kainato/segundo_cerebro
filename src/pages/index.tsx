@@ -18,7 +18,8 @@ function HomepageHeader() {
           Um repositório vivo de conhecimento e experiências
         </p>
         <p style={{ fontSize: "1.1rem", marginTop: "1rem", lineHeight: "1.6" }}>
-          Este espaço documenta minha evolução técnica e serve como guia estruturado para transformar o que seriam os "repositórios parados" em
+          Este espaço documenta minha evolução técnica e serve como guia
+          estruturado para transformar o que seriam os "repositórios parados" em
           <strong> conhecimento consolidado</strong>.
         </p>
         <div className={styles.buttons}>
@@ -62,7 +63,10 @@ function ContentSection() {
             <div style={{ fontSize: "2.5rem", marginBottom: "1rem" }}>📚</div>
             <h3>Documentado por Aprendizado</h3>
             <p>
-              Cada tema presente neste projeto foi documentado com os <strong>conteúdos aprendidos</strong> e <strong>referências adicionais</strong> vistos em estudos e workshops que participei e resolvi compartilhar.
+              Cada tema presente neste projeto foi documentado com os{" "}
+              <strong>conteúdos aprendidos</strong> e{" "}
+              <strong>referências adicionais</strong> vistos em estudos e
+              workshops que participei e resolvi compartilhar.
             </p>
           </div>
 
@@ -77,8 +81,9 @@ function ContentSection() {
             <div style={{ fontSize: "2.5rem", marginBottom: "1rem" }}>💡</div>
             <h3>Consolidação de Conhecimento</h3>
             <p>
-              Explico cada tema com <strong>minhas próprias palavras</strong>, assim o
-              aprendizado se torna muito mais do que apenas assistir a aulas.
+              Explico cada tema com <strong>minhas próprias palavras</strong>,
+              assim o aprendizado se torna muito mais do que apenas assistir a
+              aulas.
             </p>
           </div>
 
@@ -93,8 +98,9 @@ function ContentSection() {
             <div style={{ fontSize: "2.5rem", marginBottom: "1rem" }}>🎬</div>
             <h3>Referência Ética</h3>
             <p>
-              Cada projeto vinculado com <strong>créditos ao curso/instrutor</strong>.
-              Conhecimento compartilhado e origem respeitada.
+              Cada projeto vinculado com{" "}
+              <strong>créditos ao curso/instrutor</strong>. Conhecimento
+              compartilhado e origem respeitada.
             </p>
           </div>
 
@@ -109,7 +115,9 @@ function ContentSection() {
             <div style={{ fontSize: "2.5rem", marginBottom: "1rem" }}>📈</div>
             <h3>Prova de Valor</h3>
             <p>
-              Uma wiki pessoal bem estruturada conta mais sobre a <strong>maturidade técnica</strong> do que 10 cursos completados isoladamente.
+              Uma wiki pessoal bem estruturada conta mais sobre a{" "}
+              <strong>maturidade técnica</strong> do que 10 cursos completados
+              isoladamente.
             </p>
           </div>
         </div>
@@ -124,7 +132,7 @@ function WhyThisMatters() {
       style={{ padding: "3rem 2rem", maxWidth: "900px", margin: "0 auto" }}
     >
       <Heading as="h2" style={{ marginBottom: "1.5rem", textAlign: "center" }}>
-        O Desafio Que Isso Resolve
+        Por Que Este Projeto é Importante?
       </Heading>
 
       <div
@@ -143,20 +151,12 @@ function WhyThisMatters() {
             color: "var(--md-sys-color-on-primary-container)",
           }}
         >
-          <strong>O "Cemitério de Repositórios":</strong> Você faz cursos, sobe
-          o código, e ele fica lá pegando poeira digital. Mas e se
-          transformássemos isso em{" "}
-          <strong>
-            documentação viva que conta a história do seu crescimento?
-          </strong>
+          Este projeto é mais do que um portfólio: é uma{" "}
+          <strong>biblioteca tecnológica</strong> que documenta minha <strong>evolução técnica</strong>,
+          consolida aprendizados e mostra crescimento real. Dessa forma, ele
+          funciona como um guia estruturado para <strong>transformar repositórios parados</strong> em conhecimento útil e duradouro.
         </p>
       </div>
-      <p style={{ fontSize: "1.1rem", lineHeight: "1.6" }}>
-        Este projeto é a resposta para o desafio de transformar aprendizado em
-        legado. Ele não é apenas um portfólio, mas um
-        <strong> bibliotech</strong> que registra sua jornada técnica,
-        consolidando conhecimento e mostrando evolução real.
-      </p>
     </section>
   );
 }
