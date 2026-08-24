@@ -1,8 +1,1 @@
-{
-  "chat.tools.terminal.autoApprove": {
-    "/^Get-ChildItem \"\\*\\.md\" -File \\| ForEach-Object \\{ Write-Host \"\\$\\(\\$_\\.Name\\): \\$\\(\\$_\\.Length\\) bytes\" \\}$/": {
-      "approve": true,
-      "matchCommandLine": true
-    }
-  }
-}
+{}
