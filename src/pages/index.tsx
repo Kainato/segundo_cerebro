@@ -129,7 +129,7 @@ function WhyThisMatters() {
 }
 
 export default function Home(): ReactNode {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title="Meu Segundo Cérebro - Conhecimento, Projetos e Aprendizados"
