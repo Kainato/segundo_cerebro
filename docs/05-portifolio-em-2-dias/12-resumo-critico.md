@@ -81,7 +81,7 @@ Se alguém der apenas **2 minutos** de atenção:
 3. **Como funciona?** (1-2 telas)
 4. **Como acessar?** (link para GitHub/app/demo)
 
-Tudo além disso é "bonus".
+Tudo além disso é "bônus".
 
 ---
 
