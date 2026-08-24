@@ -1,5 +1,4 @@
 import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Heading from "@theme/Heading";
 import Layout from "@theme/Layout";
 import clsx from "clsx";
@@ -152,9 +151,11 @@ function WhyThisMatters() {
           }}
         >
           Este projeto é mais do que um portfólio: é uma{" "}
-          <strong>biblioteca tecnológica</strong> que documenta minha <strong>evolução técnica</strong>,
-          consolida aprendizados e mostra crescimento real. Dessa forma, ele
-          funciona como um guia estruturado para <strong>transformar repositórios parados</strong> em conhecimento útil e duradouro.
+          <strong>biblioteca tecnológica</strong> que documenta minha{" "}
+          <strong>evolução técnica</strong>, consolida aprendizados e mostra
+          crescimento real. Dessa forma, ele funciona como um guia estruturado
+          para <strong>transformar repositórios parados</strong> em conhecimento
+          útil e duradouro.
         </p>
       </div>
     </section>
@@ -162,7 +163,6 @@ function WhyThisMatters() {
 }
 
 export default function Home(): ReactNode {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title="Bibliotech"
