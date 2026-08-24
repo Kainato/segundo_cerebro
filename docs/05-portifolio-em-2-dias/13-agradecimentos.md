@@ -57,7 +57,7 @@ Desenvolvedores que entendem princípios de design:
 - ✅ Ficam mais empregáveis
 - ✅ Crescem profissionalmente
 
-Este módulo é um "ponte" entre design e desenvolvimento.
+Este módulo é uma "ponte" entre design e desenvolvimento.
 
 ---
 
