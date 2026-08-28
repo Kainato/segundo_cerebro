@@ -1,4 +1,4 @@
-# 📚 Meu Projeto Docusaurus
+# 📚 Bibliotech
 
 Este repositório contém um site de documentação criado com [Docusaurus 2](https://docusaurus.io/), um gerador de sites estáticos moderno baseado em React, projetado para criar documentação de forma rápida e organizada.
 
