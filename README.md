@@ -136,7 +136,3 @@ Caso seja necessário atualizar a versão publicada, **contate o administrador**
 - [Guia Rápido](https://docusaurus.io/docs)
 - [Configurações](https://docusaurus.io/docs/configuration)
 - [Deployment](https://docusaurus.io/docs/deployment)
-
----
-
-Feito com ❤️ usando [Docusaurus](https://docusaurus.io/)
